@@ -1,0 +1,8 @@
+apiVersion: tech.claudioed/v1alpha1
+kind: SayHi
+metadata:
+  name: example-sayhi
+spec:
+  # Add fields here
+  For: claudioed
+  Message: Say Hi man it worked!!!
